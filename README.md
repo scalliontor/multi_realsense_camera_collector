@@ -21,9 +21,6 @@ A Python-based tool for collecting and processing multi-camera action datasets u
 8. Grasping Pinch
 9. Transport Object
 10. Release Object
-11. Pushing Object
-12. Writing/Drawing
-13. Cutting with Scissors
 14. Thumbs Down
 15. Number 1
 
