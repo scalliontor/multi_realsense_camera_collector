@@ -1,2 +1,7 @@
 **/Dataset/
 **/Dataset_Extracted/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.zip

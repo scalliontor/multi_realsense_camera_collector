@@ -11,9 +11,11 @@ WIDTH, HEIGHT, FRAMERATE = 640, 480, 15
 RECORDING_DURATION_SECONDS = 5
 DATASET_DIR = "Dataset"
 ACTION_POOL = {
-    1: "Pointing", 2: "Thumbs_Up", 3: "OK_Sign", 4: "Peace_Sign", 5: "Numeber_3",
-    6: "Waving", 7: "Circular_Motion", 8: "Grasping_Pinch", 9: "Transport_Object",
-    10: "Release_Object", 11: "Pushing_Object", 12: "Writing_Drawing", 13: "Cutting_with_Scissors", 14: "Thumbs_Down", 15: "Number_1",
+    1: "Approaching",
+    2: "Grasping",
+    3: "Transporting",
+    4: "Releasing",
+    5: "Idle/Resting"
 }
 
 def get_next_take_number(action_path):
